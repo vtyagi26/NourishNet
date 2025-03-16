@@ -30,7 +30,7 @@ function App() {
                 
                 <h1><center>NOURISHNET</center></h1>
 
-                <p> Transforming someone's waste to a someone's life<br/><br></br>Make a change now !</p>
+                <p> Transforming someone's waste to a someone's life<br/>Make a change now !</p>
                 <div className={classes.btnContainer}>
                     <button
                         className={classes.link}

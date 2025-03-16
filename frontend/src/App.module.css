@@ -23,23 +23,26 @@
     min-width: 50%;
     height: 100%;
     height: 100vh;
-    background-image: url('./assets/images/landingpage/bgr.png');
+    background-image: url('./assets/images/landingpage/3.png');
     padding: 5rem;
+    filter:contrast(90%);
+    filter: saturate(90%);
 }
 
 .right h1 center {
-    font-weight: bold;
-    font-size: 2rem;
+    font-weight: bolder;
+    font-size: 4rem;
     margin: 2rem 0;
-    color: rgb(255, 234, 0);
+    color: rgb(255, 255, 255);
 }
 
 .right p {
-    color: rgb(136, 255, 0);
+    color: rgb(255, 255, 255);
     font-weight: bold;
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     margin: 2rem 0;
     max-width: 85%;
+    /* background-color: rgba(150, 79, 97, 0); */
 }
 
 .right img {
@@ -49,7 +52,7 @@
 }
 
 .right button {
-    background-color: #b521f9;
+    background-color: #0387b3ce;
 }
 
 .btnContainer {
